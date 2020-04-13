@@ -9,4 +9,6 @@ Test Uploading GitHub.
 
 Feeling: git is magic! 
 
-Test on master branch. 
+Test on master branch.
+
+Merge branches is quick.  
