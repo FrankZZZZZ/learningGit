@@ -5,4 +5,6 @@ Let's make some modifications.
 
 Try to understand how stages work: Git has a mutable index called stage. 
 
-Test Uploading GitHub. 
+Test Uploading GitHub.
+
+Feeling: git is magic!  
