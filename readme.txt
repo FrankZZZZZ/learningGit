@@ -11,4 +11,4 @@ Feeling: git is magic!
 
 Test on master branch.
 
-Merge branches is QUICK. 
+Merge branches is quick.  
