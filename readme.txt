@@ -7,4 +7,6 @@ Try to understand how stages work: Git has a mutable index called stage.
 
 Test Uploading GitHub.
 
-Feeling: git is magic!  
+Feeling: git is magic! 
+
+Test on master branch. 
