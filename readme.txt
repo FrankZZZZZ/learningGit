@@ -11,4 +11,6 @@ Feeling: git is magic!
 
 Test on master branch.
 
-Merge branches is quick.  
+Merge branches is quick. 
+
+Fast Forward is the default merging method.  
